@@ -1,0 +1,71 @@
+[
+  [
+    {
+      "id": 1,
+      "type": "normal",
+      "name": "Mountain 20kg Bike",
+      "img": "mointainBike.jpg",
+      "price": 10
+    },
+    {
+      "id": 2,
+      "type": "normal",
+      "name": "Road Light bike",
+      "img": "roadBikes.jpg",
+      "price": 10
+    },
+    {
+      "id": 3,
+      "type": "normal",
+      "name": "Urban Style bike",
+      "img": "urban.jpg",
+      "price": 10
+    }
+  ],
+  [
+    {
+      "id": 4,
+      "type": "electric",
+      "name": "Urban 280W Electric Bike",
+      "img": "urban-electric.jpg",
+      "price": 10
+    },
+    {
+      "id": 5,
+      "type": "electric",
+      "name": "Road Speed Electric Bike",
+      "img": "roadspeed-electric.jpg",
+      "price": 10
+    },
+    {
+      "id": 6,
+      "type": "electric",
+      "name": "Grave Road Electric Bike",
+      "img": "gravel-electric.jpg",
+      "price": 10
+    }
+  ],
+  [
+    {
+      "id": 7,
+      "type": "old",
+      "name": "Classic 1934 Old Bike",
+      "img": "classic-old.jpg",
+      "price": 10
+    },
+    {
+      "id": 8,
+      "type": "old",
+      "name": "Speed UX Old Bike",
+      "img": "speedold.jpg",
+      "price": 10
+    },
+    {
+      "id": 9,
+      "type": "old",
+      "name": "Urban Retro Old Bike",
+      "img": "urban-old.jpg",
+      "price": 10
+    }
+  ]
+]
