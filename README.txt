@@ -7,6 +7,11 @@ se han implementado con la finalidad de hacer la aplicacion escalable.
 
 El estilo de la aplicacion es basico , amigable a la vista , con claras  mejoras por implementar.
 
+Me he enfocado principalmente en la logica y el manejo de los datos desde la seleccion de la bicicleta hasta aceptar el precio de la reserva. Personalmente
+me parece importante aplicar validaciones en todos los formularios , evitando futuros errores, ademas de asegurarme de que toda la experiencia del usuario sea agradable.
+
+En la parte que menos he puesto atencion ha sido en el posicionamiento de las tarjetas , el estilo en general de la aplicacion, creacion de NavBar responsive, animaciones , transiciones. 
+
 Informacion del proyecto :
 
 - Configuracion de Router con react-router-dom v6
@@ -20,7 +25,7 @@ Informacion del proyecto :
 
 Como Ejecutar la aplicacion:
 
-- obtener los archivos del proyecto desde repositorio de git  
+- obtener los archivos del proyecto desde repositorio de git   https://github.com/dbellacicco-coder/bicyclerentapp
 - instalar todas las dependecias del proyecto con el comando ---->  npm install
 - Ejecutar aplicacion con el comando --------> npm run dev.
 
